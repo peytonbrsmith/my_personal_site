@@ -1,4 +1,4 @@
-baseurl = "https://doks.netlify.app/"
+baseurl = "https://elated-rosalind-72d3ca.netlify.app"
 canonifyURLs = false
 disableAliases = true
 disableHugoGeneratorInject = true
