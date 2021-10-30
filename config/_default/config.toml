@@ -1,4 +1,4 @@
-baseurl = "https://elated-rosalind-72d3ca.netlify.app"
+baseurl = "peytonsmith.dev"
 canonifyURLs = false
 disableAliases = true
 disableHugoGeneratorInject = true
