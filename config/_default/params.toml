@@ -1,0 +1,88 @@
+# Meta Data for SEO
+
+## Homepage
+title = "Peyton Smith"
+titleSeparator = "-"
+titleAddition = "Developer, Engineer, Learner"
+description = "I have a passion for technology and I want to use it."
+
+## Documentation
+# docsVersion = "0.3"
+
+## Open Graph
+images = ["doks.png"]
+ogLocale = "en_US"
+domainTLD = "peytonsmith.dev"
+titleHome = "Peyton Smith"
+
+## Twitter Cards
+twitterSite = "@peytons0606"
+twitterCreator = "@peytons0606"
+
+## JSON-LD
+schemaType = "Person"
+# schemaType = "Organization"
+schemaName = "Peyton Smith"
+# schemaAuthor = "Henk Verlinde"
+schemaAuthorTwitter = "https://twitter.com/peytons0606"
+schemaAuthorLinkedIn = "https://www.linkedin.com/in/peyton-smith-65b113187/"
+schemaAuthorGitHub = "https://github.com/peytonbrsmith"
+schemaLocale = "en-US"
+schemaLogo = "favicon.ico"
+schemaLogoWidth = 512
+schemaLogoHeight = 512
+schemaImage = "doks.png"
+schemaImageWidth = 1280
+schemaImageHeight = 640
+schemaTwitter = "https://twitter.com/peytons0606"
+schemaLinkedIn = ""
+schemaGitHub = "https://github.com/peytonbrsmith"
+schemaSection = "blog"
+
+## Sitelinks Search Box
+siteLinksSearchBox = false
+
+## Chrome Browser
+themeColor = "#fff"
+
+# Images
+quality = 85
+bgColor = "#fff"
+landscapePhotoWidths = [900, 800, 700, 600, 500]
+portraitPhotoWidths = [800, 700, 600, 500]
+lqipWidth = "20x"
+smallLimit = "300"
+
+# Footer
+footer = "Powered by <a href=\"https://www.netlify.com/\">Netlify</a>, <a href=\"https://gohugo.io/\">Hugo</a>, and <a href=\"https://getdoks.org/\">Doks</a>"
+
+# Feed
+copyRight = "Copyright (c) 2020-2021 Henk Verlinde"
+
+# Alert
+alert = false
+alertDismissable = true
+# alertText = "Introducing the Doks child theme, several DX + UX updates, and more! <a class=\"alert-link stretched-link\" href=\"https://getdoks.org/blog/doks-v0.2/\" target=\"_blank\" rel=\"noopener\">Check out Doks v0.2</a>"
+alertText = "Introducing the Doks child theme, several DX + UX updates, and more! <a class=\"alert-link stretched-link\" href=\"https://getdoks.org/blog/doks-v0.2/\">Check out Doks v0.2</a>"
+
+# Edit Page
+# repoHost [Github | Gitea | GitLab] is used for building the edit link based on git hoster
+repoHost = "GitHub"
+#repoHost = "Gitea"
+docsRepo = "https://github.com/h-enk/doks"
+docsRepoBranch = "master"
+editPage = false
+
+[options]
+  lazySizes = true
+  clipBoard = true
+  instantPage = true
+  flexSearch = true
+  darkMode = true
+  bootStrapJs = true
+  breadCrumb = false
+  highLight = true
+  kaTex = false
+  collapsibleSidebar = true
+  multilingualMode = false
+  docsVersioning = false
