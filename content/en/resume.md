@@ -16,10 +16,6 @@ toc: false
 
 Tulsa, OK 74103
 
-1884@holbertonschool.com
-
-9189788251
-
 Willing to relocate: Anywhere
 Authorized to work in the US for any employer
 
@@ -57,31 +53,6 @@ September 2020 to Present
 
 Booker T. Washington High School - Tulsa, OK
 August 2016 to May 2020
-
-## Skills
-
-- Full-stack development
-- Git
-- REST
-
-
-- APIs
-- JavaScript
-- Python
-- HTML
-- BASH
-- C#
-- C
-- Unity
-- Linux
-- Databases
-- IP networking
-
-## Links
-
-https://github.com/peytonbrsmith
-
-https://peytonsmith.dev
 
 ## Certifications and Licenses
 
