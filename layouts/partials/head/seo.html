@@ -27,12 +27,12 @@
 {{ end -}}
 
 {{ if $.Scratch.Get "paginator" }}
-  <link rel="canonical" href="{{ .Paginator.URL | absURL }}">
+  <link rel="canonical" href="{{ .Paginator.URL | relURL }}">
   {{ if .Paginator.HasPrev -}}
-    <link rel="prev" href="{{ .Paginator.Prev.URL | absURL }}">
+    <link rel="prev" href="{{ .Paginator.Prev.URL | relURL }}">
   {{ end -}}
   {{ if .Paginator.HasNext -}}
-    <link rel="next" href="{{ .Paginator.Next.URL | absURL }}">
+    <link rel="next" href="{{ .Paginator.Next.URL | relURL }}">
   {{ end -}}
 {{ else  -}}
   <link rel="canonical" href="{{ .Permalink }}">
