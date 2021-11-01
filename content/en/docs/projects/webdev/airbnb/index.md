@@ -17,9 +17,7 @@ Project Links: [GitHub](https://github.com/peytonbrsmith/airbnb_clone_v4)
 
 ![](65f4a1dd9c51265f49d0.png)
 
-The goal of the project was to deploy on a recreation of the
-[AirBnB
-website](https://www.airbnb.com/ "AirBnB website").
+The goal of the project was to deploy a recreation of the [AirBnB website](https://www.airbnb.com/ "AirBnB website").
 
 -   A command interpreter to manipulate data without a visual interface,
     like in a Shell (perfect for development and debugging)
