@@ -16,7 +16,7 @@ if you are looking for my resume you can find it [here](/resume)
 ![Image](20201105_220240000_iOS.jpg)
 ### About Me
 
-I am a HUGE nerd. I love all things tech, science, sci-fi, gaming, fantasy, comedy, and more!
+I am a HUGE nerd. I love all things tech, science, sci-fi, gaming, fantasy, comedy, etc!
 
 ### 🍿 Favorite Shows
 Pffft, I don't watch or quote too many sitcoms...
