@@ -2,8 +2,8 @@
 title: "Resume"
 description: "Here is a markdown copy of my resume :)"
 lead: "----------------------------------------"
-date: 2020-10-13T15:21:01+02:00
-lastmod: 2020-10-13T15:21:01+02:00
+date:
+lastmod:
 draft: false
 images: []
 weight: 130
