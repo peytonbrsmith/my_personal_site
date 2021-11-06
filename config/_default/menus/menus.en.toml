@@ -12,7 +12,7 @@
 
 [[main]]
   name = "Projects"
-  url = "/docs/projects"
+  url = "/projects"
 # url = "/docs/1.0/prologue/introduction/"
   weight = 10
 
@@ -23,7 +23,7 @@
 
 [[main]]
   name = "Resume"
-  url = "resume"
+  url = "/resume"
 # url = "/docs/1.0/prologue/introduction/"
   weight = 30
 
