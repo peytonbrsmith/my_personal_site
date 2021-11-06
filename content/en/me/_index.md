@@ -7,9 +7,7 @@ draft: false
 images: ["20201105_220240000_iOS.jpg"]
 ---
 
-<div align="center">
-<img src="20201105_220240000_iOS.jpg">
-</div>
+{{< img-simple src="20201105_220240000_iOS.jpg" alt="me :)" >}}
 
 ---
 
