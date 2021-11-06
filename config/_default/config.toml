@@ -1,4 +1,4 @@
-baseurl = "https://peytonbrsmith.netlify.app"
+baseurl = "https://peytonsmith.dev"
 canonifyURLs = false
 disableAliases = true
 disableHugoGeneratorInject = true
