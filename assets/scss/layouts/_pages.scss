@@ -47,3 +47,20 @@ p.meta {
 .page-link:hover {
   text-decoration: none;
 }
+
+ul {
+  list-style-position: inside;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  padding: 0;
+  margin: 0;
+}
+
+.container .card
+{
+  margin-top: 2.25rem;
+  margin-left: 1.5rem;
+}

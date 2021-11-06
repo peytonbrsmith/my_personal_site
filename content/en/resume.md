@@ -16,7 +16,8 @@ toc: false
 
 Tulsa, OK 74103
 
-Willing to relocate: Anywhere
+Willing to relocate anywhere
+
 Authorized to work in the US for any employer
 
 ## Work Experience
