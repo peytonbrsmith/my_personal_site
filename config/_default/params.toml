@@ -10,7 +10,7 @@ description = "I have a passion for technology and I want to use it."
 # docsVersion = "0.3"
 
 ## Open Graph
-images = ["doks.png"]
+images = ["20201105_220240000_iOS.jpg"]
 ogLocale = "en_US"
 domainTLD = "peytonsmith.dev"
 titleHome = "Peyton Smith"
@@ -60,16 +60,16 @@ footer = "Powered by <a href=\"https://www.netlify.com/\">Netlify</a>, <a href=\
 copyRight = "Copyright (c) 2020-2021 Henk Verlinde"
 
 # Alert
-alert = false
+alert = true
 alertDismissable = true
 # alertText = "Introducing the Doks child theme, several DX + UX updates, and more! <a class=\"alert-link stretched-link\" href=\"https://getdoks.org/blog/doks-v0.2/\" target=\"_blank\" rel=\"noopener\">Check out Doks v0.2</a>"
-alertText = "Introducing the Doks child theme, several DX + UX updates, and more! <a class=\"alert-link stretched-link\" href=\"https://getdoks.org/blog/doks-v0.2/\">Check out Doks v0.2</a>"
+alertText = "<span class=\"wave\">👋</span> Welcome to my site! Hope you come back!"
 
 # Edit Page
 # repoHost [Github | Gitea | GitLab] is used for building the edit link based on git hoster
 repoHost = "GitHub"
 #repoHost = "Gitea"
-docsRepo = "https://github.com/h-enk/doks"
+docsRepo = "https://github.com/peytonbrsmith/my_personal_site"
 docsRepoBranch = "master"
 editPage = false
 
