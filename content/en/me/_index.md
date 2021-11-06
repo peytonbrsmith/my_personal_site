@@ -6,8 +6,7 @@ lastmod:
 draft: false
 images: ["20201105_220240000_iOS.jpg"]
 ---
-
-{{< img-simple src="20201105_220240000_iOS.jpg" alt="me :)" >}}
+![Image](20201105_220240000_iOS.jpg)
 
 ---
 
