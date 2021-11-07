@@ -16,6 +16,7 @@ toc: true
 Project Links: [GitHub](https://github.com/aydentownsley/RageChess) [Landing Page](https://aydentownsley.github.io/RageChess)
 
 <!-- PROJECT LOGO -->
+
 <br />
 <p align="center">
   <iframe width="100%" height="500" src="https://www.youtube.com/embed/CHwq2JNkkTU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
