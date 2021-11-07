@@ -1,7 +1,7 @@
 ---
 title: "📦 Python: Everything is an Object!"
-description: "A blog of our project Rage Chess."
-lead: "Immersing Ourselves Into XR"
+description: "A blog about Python and OOP."
+lead: "My Intro to Object Oriented Programming"
 date: 2021-01-12
 lastmod: 2021-11-06
 draft: false
@@ -22,7 +22,7 @@ A variable type - which dictates the size of this variable in memory, what kind 
 
 An address - the first bit in memory that belongs to the variable is the address of the variable. (Where the box is stored)
 
-The data - Finally, the data stored inside.
+The data - Finally, the data, the bits, the 0s and 1s. (Whatever is in the box)
 
 
 
