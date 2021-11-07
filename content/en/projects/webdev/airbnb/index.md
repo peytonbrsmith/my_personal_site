@@ -13,7 +13,10 @@ weight: 150
 toc: true
 ---
 
-Project Links: [GitHub](https://github.com/peytonbrsmith/airbnb_clone_v4)
+
+Project Links: [v0.0](https://github.com/peytonbrsmith/airbnb_clone) [v0.5](https://github.com/peytonbrsmith/airbnb_clone_v2) [v0.75](https://github.com/peytonbrsmith/airbnb_clone_v3) [Final](https://github.com/peytonbrsmith/airbnb_clone_v4)
+
+This was an iterative and collaborative project which spanned multiple repositories and contributors.
 
 ![](65f4a1dd9c51265f49d0.png)
 
