@@ -18,7 +18,7 @@ Project Links: [GitHub](https://github.com/peytonbrsmith/SuperMarioBros_Unity) [
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <iframe width="960px" height="600px" src="https://peytonbrsmith.github.io/SuperMarioBros_Unity/" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="960px" height="600px" src="https://peytonbrsmith.github.io/SuperMarioBros_Unity/" title="Super Mario Bros Unity clone" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
 <!-- ABOUT THE PROJECT -->

@@ -78,7 +78,7 @@ Next Steps / Stretch Goals
 - [ ] Improve scoring system
 - [ ] Implement legal chess moves
 - [x] Voice Chat
-- [ ] Additional Room Environments
+- [x] Additional Room Environments
 - [ ] Customizable Avatars
 
 
