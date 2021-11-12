@@ -81,4 +81,5 @@ in that year's game. 
 - In addition to general STEM/STEAM principles, participants were encouraged to focus on cooperation
 and team-building.
 
+
 As a member I studied and practiced the fundamentals of Mechanical and Electrical Engineering, Programming, and Computer-Aided Design.
