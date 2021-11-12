@@ -25,7 +25,7 @@ schemaType = "Person"
 schemaName = "Peyton Smith"
 # schemaAuthor = "Henk Verlinde"
 schemaAuthorTwitter = "https://twitter.com/peytons0606"
-schemaAuthorLinkedIn = "https://www.linkedin.com/in/peyton-smith-65b113187/"
+schemaAuthorLinkedIn = "https://www.linkedin.com/in/peytonbrsmith/"
 schemaAuthorGitHub = "https://github.com/peytonbrsmith"
 schemaLocale = "en-US"
 schemaLogo = "favicon.ico"
@@ -35,7 +35,7 @@ schemaImage = "doks.png"
 schemaImageWidth = 1280
 schemaImageHeight = 640
 schemaTwitter = "https://twitter.com/peytons0606"
-schemaLinkedIn = ""
+schemaLinkedIn = "https://www.linkedin.com/in/peytonbrsmith/"
 schemaGitHub = "https://github.com/peytonbrsmith"
 schemaSection = "blog"
 
