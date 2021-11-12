@@ -1,5 +1,5 @@
 ---
-title: "♟️ Rage Chess 😡"
+title: "😡 Rage Chess ♟️"
 description: "A blog of our project Rage Chess."
 lead: "Immersing Ourselves Into XR"
 date: 2021-06-23
