@@ -1,5 +1,5 @@
 ---
-title: "🎆 Welcome to my new site! 🎇"
+title: "🎆 Welcome to my new site!"
 description: ""
 lead: ""
 date: 2021-11-05T09:19:42+01:00
