@@ -15,7 +15,7 @@ toc: true
 
 Project Links: [GitHub](https://github.com/aydentownsley/RageChess) [Landing Page](https://aydentownsley.github.io/RageChess)
 
-If you want to read more about this project, read my blog post about it [here](/blog/%EF%B8%8F-rage-chess/)
+If you want to read more about this project, read my blog post about it [here](/blog/rage-chess/)
 
 <!-- PROJECT LOGO -->
 <img src="ragechesslogogradient.png">
