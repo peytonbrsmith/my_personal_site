@@ -15,6 +15,7 @@ toc: false
 *I have a passion for technology and I want to use it.*
 
 Tulsa, OK 74103 - Open for Remote Work/Relocation
+
 Authorized to work in the US for any employer
 
 ## Work Experience
