@@ -12,17 +12,14 @@ toc: false
 
 # Peyton Smith
 
-**I have a passion for technology and I want to use it.**
+*I have a passion for technology and I want to use it.*
 
-Tulsa, OK 74103
-
-Willing to relocate anywhere
-
+Tulsa, OK 74103 - Open for Remote Work/Relocation
 Authorized to work in the US for any employer
 
 ## Work Experience
 
-### Tutor
+### Holberton School Tutor
 
 Holberton School - Tulsa, OK
 June 2021 to Present
