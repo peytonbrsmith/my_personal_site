@@ -1,13 +1,12 @@
 ---
-title: "Resume"
-description: "Here is a markdown copy of my resume :)"
-lead: "----------------------------------------"
+title: ""
+description: "A markdown copy of my resume."
+lead: ""
 date:
-lastmod:
 draft: false
 images: []
 weight: 130
-toc: false
+toc: true
 ---
 
 # Peyton Smith
@@ -15,6 +14,8 @@ toc: false
 Tulsa, OK 74103 - Open for On-Site/Remote/Hybrid work and Relocation
 
 Authorized to work in the US for any employer
+
+---
 
 ## Work Experience
 
@@ -29,7 +30,7 @@ Authorized to work in the US for any employer
 * Providing ad Hoc advice and assistance during student projects.
 * Reviewing work submitted by students and conducting mock interviews.
 * Leading meetings and presentations over various school concepts and curriculum topics.
-* Providing and maintaining a calendar of schedulable time for students to request group or one-one tutoring sessions.
+* Providing and maintaining a calendar of schedulable time for students to request group or one-on-one tutoring sessions.
 * Attending bi-weekly meetings regarding success of students and thoughts from tutors and staff.
 
 ## Education & Activities
@@ -55,13 +56,13 @@ Authorized to work in the US for any employer
 
 ###### Holberton - Certificate of Completion (Graduation: 4/29/2022)
 
-Studied and practiced the foundations of computer science and software engineering, including low- level programming & algorithms, high-level programming and databases, and system engineering & networking
+Studied and practiced the foundations of computer science and software engineering including low-level programming, high-level programming, front-end and back-end web-development, system engineering, devops, networking, and more.
 
 ##### Augmented & Virtual Reality
 
 ###### Holberton - Certificate of Completion (Graduation: 4/29/2022)
 
-Studied and practiced C#, Unity 3D, and concepts including UI design, interaction design, working with 3D assets, animation, and audio to develop immersive games and XR experiences.
+Studied and practiced .NET and C#, linear algebra, and Unity development including UI design, interaction design, working with 3D assets, animation, and audio to develop immersive games and XR experiences.
 
 ## Skills
 
