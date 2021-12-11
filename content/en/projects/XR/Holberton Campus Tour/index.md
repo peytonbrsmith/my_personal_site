@@ -13,6 +13,8 @@ weight: 170
 toc: true
 ---
 
+Project Links: [GitHub](https://github.com/peytonbrsmith/0x0A-unity-360_video_tour)
+
 <br />
 <p align="center">
   <iframe width="100%" height="561" src="https://www.youtube.com/embed/n2ZImmZJPHE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

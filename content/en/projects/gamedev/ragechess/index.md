@@ -1,7 +1,7 @@
 ---
 title: "Rage Chess"
 description: "Rage Chess"
-lead: "Rage Chess"
+lead: "How you really want to play Chess."
 date: 2020-10-13T15:21:01+02:00
 lastmod: 2020-10-13T15:21:01+02:00
 draft: false

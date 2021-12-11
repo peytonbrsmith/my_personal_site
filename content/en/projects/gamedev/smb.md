@@ -1,7 +1,7 @@
 ---
 title: "Super Mario Bros Unity"
-description: "Super Mario Bros Unity"
-lead: "Super Mario Bros Unity"
+description: "A super mario bros clone made in Unity with C#."
+lead: "A super mario bros clone made in Unity with C#."
 date: 2020-10-13T15:21:01+02:00
 lastmod: 2020-10-13T15:21:01+02:00
 draft: false
