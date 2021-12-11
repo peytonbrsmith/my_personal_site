@@ -15,8 +15,6 @@ Tulsa, OK 74103 - Open for On-Site/Remote/Hybrid work and Relocation
 
 Authorized to work in the US for any employer
 
----
-
 ## Work Experience
 
 ##### Holberton School Tutor
@@ -32,6 +30,8 @@ Authorized to work in the US for any employer
 * Leading meetings and presentations over various school concepts and curriculum topics.
 * Providing and maintaining a calendar of schedulable time for students to request group or one-on-one tutoring sessions.
 * Attending bi-weekly meetings regarding success of students and thoughts from tutors and staff.
+
+---
 
 ## Education & Activities
 
@@ -50,6 +50,8 @@ Authorized to work in the US for any employer
 
 ###### FIRST Robotics Competition TEAM 1209 - August 2016 to May 2020
 
+---
+
 ## Certifications and Licenses
 
 ##### Full Stack Software Engineering
@@ -63,6 +65,8 @@ Studied and practiced the foundations of computer science and software engineeri
 ###### Holberton - Certificate of Completion (Graduation: 4/29/2022)
 
 Studied and practiced .NET and C#, linear algebra, and Unity development including UI design, interaction design, working with 3D assets, animation, and audio to develop immersive games and XR experiences.
+
+---
 
 ## Skills
 
