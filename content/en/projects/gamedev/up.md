@@ -21,6 +21,23 @@ Project Links: [GitHub Project Directories](https://github.com/peytonbrsmith/hol
   <iframe width="960px" height="600px" src="https://peytonbrsmith.github.io/holberton_platformer_webgl/" title="Super Mario Bros Unity clone" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
+Controls:
+
+Mouse/keyboard:
+
+W - forward
+S - backward
+A - left
+D - right
+
+Space - jump
+
+Mouse - camera
+
+---
+
+Touch Controls for mobile devices are available in options menu
+
 I made this as a project for Holberton to learn various Unity tools and C# Scripting techniques covering topics such as:
 
 * UI
