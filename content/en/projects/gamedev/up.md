@@ -2,8 +2,6 @@
 title: "Unity Platformer"
 description: "A simple platformer made in Unity"
 lead: "A simple platformer made in Unity"
-date: 2020-10-13T15:21:01+02:00
-lastmod: 2020-10-13T15:21:01+02:00
 draft: false
 images: []
 menu:
@@ -50,9 +48,15 @@ I made this as a project for Holberton to learn various Unity tools and C# Scrip
 * Peyton Smith - [Github](https://github.com/peytonbrsmith) - [@peytons0606](https://twitter.com/peytons0606) - peyton.smith@holbertonschool.com
 
 Thanks to:
+
 Skyboxes: Farland Skies - Cloudy Crown
+
 Models: Kenney's Nature Pack Extended https://kenney.nl/assets/nature-pack-extended
+
 Kenney: https://kenney.nl/
+
 Oculus Audio Pack: https://developer.oculus.com/downloads/package/oculus-audio-pack-1/
+
 Mindful Audio: https://mindful-audio.com/
+
 “Wallpaper”, “Cheery Monday” Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 3.0 http://creativecommons.org/licenses/by/3.0/****
