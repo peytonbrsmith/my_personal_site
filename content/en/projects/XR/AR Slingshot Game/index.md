@@ -20,7 +20,7 @@ Project Links: [GitHub](https://github.com/peytonbrsmith/holbertonschool-unity/t
 
 A simple AR slingshot game built in Unity.
 
-***Built with Unity 2020 and AR Foundation***
+***Built with Unity 2020, AR Foundations, and C#***
 
 ## Learning Objectives
 
