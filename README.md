@@ -1,15 +1,9 @@
-<p align="center">
-  <a href="https://getdoks.org/">
-    <img alt="Doks" src="https://doks.netlify.app/doks.svg" width="60">
-  </a>
-</p>
-
 <h1 align="center">
-  Doks
+  Peyton Smith's Personal Site
 </h1>
 
 <h3 align="center">
-  Modern Documentation Theme
+  Made Using Doks Modern Documentation Theme
 </h3>
 
 <p align="center">
@@ -34,11 +28,13 @@
   </a>
 </p>
 
-![Doks — Modern Documentation Theme](https://raw.githubusercontent.com/h-enk/doks/master/images/tn.png)
+<div align="center">
+<img src="https://raw.githubusercontent.com/peytonbrsmith/peytonbrsmith/main/webmetrics.svg">
+</div>
 
-## Demo
+## Visit Here
 
-- [doks.netlify.app](https://doks.netlify.app/)
+- [peytonsmith.dev](https://peytonsmith.dev)
 
 ## Why Doks?
 
@@ -70,53 +66,6 @@ Nine main reasons why you should use Doks:
 - __Mermaid__ diagrams and visualization
 - __highlight.js__ syntax highlighting
 
-## Requirements
-
-Doks uses npm to centralize dependency management, making it [easy to update](https://getdoks.org/docs/help/how-to-update/) resources, build tooling, plugins, and build scripts:
-
-- Download and install [Node.js](https://nodejs.org/) (it includes npm) for your platform.
-
-## Get started
-
-Start a new Doks project in three steps:
-
-### 1. Create a new site
-
-Doks is available as a child theme, and a starter theme:
-
-- Use the Doks child theme, if you do __not__ plan to customize a lot, and/or need future Doks updates.
-- Use the Doks starter theme, if you plan to customize a lot, and/or do __not__ need future Doks updates.
-
-Not quite sure? Use the Doks child theme.
-
-#### Doks child theme
-
-```bash
-git clone https://github.com/h-enk/doks-child-theme.git my-doks-site && cd my-doks-site
-```
-
-#### Doks starter theme
-
-```bash
-git clone https://github.com/h-enk/doks.git my-doks-site && cd my-doks-site
-```
-
-### 2. Install dependencies
-
-```bash
-npm install
-```
-
-### 3. Start development server
-
-```bash
-npm run start
-```
-
-## Other commands
-
-Doks comes with [commands](https://getdoks.org/docs/prologue/commands/) for common tasks.
-
 ## Documentation
 
 - [Netlify](https://docs.netlify.com/)
@@ -128,15 +77,3 @@ Doks comes with [commands](https://getdoks.org/docs/prologue/commands/) for comm
 - [Netlify Community](https://community.netlify.com/)
 - [Hugo Forums](https://discourse.gohugo.io/)
 - [Doks Discussions](https://github.com/h-enk/doks/discussions)
-
-## Sponsors
-
-Support this project by becoming a sponsor. Your logo will show up here with a link to your website.
-
-[![OC sponsor 0](https://opencollective.com/doks/sponsor/0/avatar.svg)](https://opencollective.com/doks/sponsor/0/website)
-
-## Backers
-
-Support this project by becoming a backer. Your avatar will show up here.
-
-[![Backers](https://opencollective.com/doks/backers.svg)](https://opencollective.com/doks)
