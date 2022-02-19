@@ -23,7 +23,7 @@
 
 [[main]]
   name = "Resume"
-  url = "/resume/"
+  url = "/resume.pdf"
 # url = "/docs/1.0/prologue/introduction/"
   weight = 30
 
