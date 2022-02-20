@@ -11,6 +11,12 @@
 #   url = "/docs/help/"
 
 [[main]]
+  name = "About"
+  url = "/me"
+# url = "/docs/1.0/prologue/introduction/"
+  weight = 10
+
+[[main]]
   name = "Projects"
   url = "/projects/"
 # url = "/docs/1.0/prologue/introduction/"
@@ -23,7 +29,7 @@
 
 [[main]]
   name = "Resume"
-  url = "/resume.pdf"
+  url = "https://docs.google.com/document/d/18_tMTDJ9KkC4go6R4_u-4GDcwJsnf7jQ0cLd-bt1VVs/edit?usp=sharing"
 # url = "/docs/1.0/prologue/introduction/"
   weight = 30
 

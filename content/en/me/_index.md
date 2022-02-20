@@ -9,7 +9,7 @@ images: ["20201105_220240000_iOS.jpg"]
 
 ---
 
-if you are looking for my resume you can find it [here](/resume.pdf)
+if you are looking for my resume you can find it by clicking resume in the navigation menu :)
 
 ---
 
