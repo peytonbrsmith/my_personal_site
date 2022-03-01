@@ -2,13 +2,13 @@
 title: "Windle"
 description: "Your favorite word game now on Windows desktop."
 lead: "Your favorite word game now on Windows desktop."
-date: 2020-10-13T15:21:01+02:00
-lastmod: 2020-10-13T15:21:01+02:00
+date: 2022-02-15T15:21:01+02:00
+lastmod: 2022-02-15T15:21:01+02:00
 draft: false
 images: []
 menu:
   docs:
-    parent: "Apps"
+    parent: "apps"
 weight: 140
 toc: true
 ---

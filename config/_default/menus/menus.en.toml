@@ -17,14 +17,14 @@
   weight = 10
 
 [[main]]
-  name = "Projects"
-  url = "/projects/"
-# url = "/docs/1.0/prologue/introduction/"
+  name = "Blog"
+  url = "/blog/"
   weight = 10
 
 [[main]]
-  name = "Blog"
-  url = "/blog/"
+  name = "Projects"
+  url = "/projects/explore/welcome/"
+# url = "/docs/1.0/prologue/introduction/"
   weight = 20
 
 [[main]]
@@ -51,6 +51,24 @@
   pre = "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" width=\"20\" height=\"20\" fill=\"currentColor\"><path d=\"M12 9.55C12.917 8.613 14.111 8 15.5 8a5.5 5.5 0 0 1 5.5 5.5V21h-2v-7.5a3.5 3.5 0 0 0-7 0V21h-2V8.5h2v1.05zM5 6.5a1.5 1.5 0 1 1 0-3 1.5 1.5 0 0 1 0 3zm-1 2h2V21H4V8.5z\"/></svg>"
   url = "https://www.linkedin.com/in/peytonbrsmith/"
   weight = 20
+
+  [[docs]]
+  name = "Explore"
+  weight = 10
+  identifier = "explore"
+  url = "/projects/explore"
+
+  [[docs]]
+  name = "Apps"
+  weight = 20
+  identifier = "apps"
+  url = "/projects/apps"
+
+  [[docs]]
+  name = "Games"
+  weight = 30
+  identifier = "games"
+  url = "/projects/games"
 
 # [[footer]]
 #   name = "Privacy"

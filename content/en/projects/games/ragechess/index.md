@@ -8,7 +8,7 @@ draft: false
 images: []
 menu:
   docs:
-    parent: "gamedev"
+    parent: "games"
 weight: 130
 toc: true
 ---
