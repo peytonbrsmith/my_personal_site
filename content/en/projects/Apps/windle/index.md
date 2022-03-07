@@ -5,7 +5,7 @@ lead: "Your favorite word game now on Windows desktop."
 date: 2022-02-15T15:21:01+02:00
 lastmod: 2022-02-15T15:21:01+02:00
 draft: false
-images: ["promo1920.png"]
+images: ["promo-1920.png"]
 pinned: true
 menu:
   docs:
@@ -15,7 +15,7 @@ toc: false
 types: ["Apps"]
 ---
 
-<img src="promo1920.png">
+<img src="promo-1920.png">
 
 ---
 
