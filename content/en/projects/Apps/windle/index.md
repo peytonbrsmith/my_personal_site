@@ -10,23 +10,21 @@ menu:
   docs:
     parent: "apps"
 weight: 140
-toc: true
+toc: false
 ---
-
-<div display="inline-block">
-<img src="windlelogo.png" width="10%" align="left" margin="10px">
-  Get it on the <a href="https://www.microsoft.com/en-us/p/windle/9nw9pr0lcpc9">Microsoft Store</a>! <br />
-  Review my <a href="privacy/">Privacy Policy</a>
-</div>
-
-
-
 
 <img src="promo1920.png">
 
 ---
 
-Features:
+<div align="center">
+  <img src="windlelogo.png" width="10%" align="center">
+  <b> Get it on the <a href="https://www.microsoft.com/en-us/p/windle/9nw9pr0lcpc9">Microsoft Store</a>! </b>
+</div>
+
+---
+
+## Features
 * Play your favorite word game right on your windows desktop! 🪟
 * Track your game history! 📘
 * Share your results! ✉️
@@ -34,7 +32,7 @@ Features:
 
 ---
 
-Screenshots:
+## Screenshots
 
 <img src="Screenshot 2022-03-04 210635.png" width="45%">
 <img src="Screenshot 2022-03-04 210254.png" width="45%">
@@ -46,6 +44,29 @@ Screenshots:
 
 <br />
 
-
 <img src="Screenshot 2022-03-04 211030.png" width="45%">
 <img src="Screenshot 2022-03-04 213547.png" width="45%">
+
+---
+
+## Latest Updates:
+
+  #### 1.0.2 UPDATE
+
+  * Improved Dictionary 📖
+  * Added Missing 6th Row (how did I not notice this???) 🚣
+  * Added Shareable Winning Results String 🏆
+  * Minor adjustments ⚙️
+
+  #### In the works:
+
+  * Daily Word that matches Wordle™️online
+  * Improved Game History
+  * Game settings
+  * Daily/Random
+  * Word Length
+  * variable rows/columns
+
+---
+
+Review my <a href="privacy/">Privacy Policy</a> </div>
