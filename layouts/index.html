@@ -96,11 +96,16 @@
 
         <h3 class="h4 card-title">✉️ Contact Me</h3>
         <p class="card-text">Connect with me on any of my socials or send me a message here.</p>
-        <form class="row gx-2 gy-3 email-form" name="contact" method="POST" data-netlify="true">
+        <form class="row gx-2 gy-3 email-form" name="contact" method="POST" data-netlify="true" netlify-honeypot="no-spam" data-netlify-recaptcha="true">
+          <p class="visually-hidden">
+            <label>
+              Don’t fill this out if you’re human: <input name="no-spam" />
+            </label>
+          </p>
           <input name="name" type="text" class="form-control" placeholder="your name" aria-label="Name">
           <input name="email" type="email" class="form-control" placeholder="your@email.com" aria-label="Email address" required>
           <input name="message" type="text" class="form-control" placeholder="message" aria-label="Message" required>
-
+          <div data-netlify-recaptcha="true"></div>
           <button type="submit" class="btn btn-primary" aria-label="Subscribe">Submit</button>
         </form>
   </div>
