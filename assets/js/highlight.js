@@ -7,6 +7,7 @@ import xml from 'highlight.js/lib/languages/xml';
 import ini from 'highlight.js/lib/languages/ini';
 import yaml from 'highlight.js/lib/languages/yaml';
 import markdown from 'highlight.js/lib/languages/markdown';
+import python from 'highlight.js/lib/languages/python';
 
 hljs.registerLanguage('javascript', javascript);
 hljs.registerLanguage('json', json);
