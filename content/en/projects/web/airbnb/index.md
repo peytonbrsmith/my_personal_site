@@ -5,7 +5,7 @@ lead: ""
 date: 2020-10-13T15:21:01+02:00
 lastmod: 2020-10-13T15:21:01+02:00
 draft: false
-images: [65f4a1dd9c51265f49d0.png]
+images: ["65f4a1dd9c51265f49d0.png"]
 menu:
   docs:
     parent: "web"

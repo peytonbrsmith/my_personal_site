@@ -1,8 +1,7 @@
 ---
 title: "Welcome"
 description: ""
-date: 2022-03-01T00:29:15-06:00
-images: []
+images: ["ayr.gif"]
 menu:
   docs:
     parent: "explore"

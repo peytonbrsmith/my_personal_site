@@ -1,16 +1,18 @@
 ---
 title: "Super Mario Bros Unity"
-description: "A super mario bros clone made in Unity with C#."
-lead: "A super mario bros clone made in Unity with C#."
+description: "A super mario bros recreation made in Unity with C#."
+lead: "A super mario bros recreation made in Unity with C#."
 date: 2020-10-13T15:21:01+02:00
 lastmod: 2020-10-13T15:21:01+02:00
 draft: false
-images: []
+images: ["Screenshot 2022-03-07 154657.png"]
 menu:
   docs:
     parent: "games"
 weight: 140
 toc: true
+pinned: true
+types: ["games"]
 ---
 
 Project Links: [GitHub](https://github.com/peytonbrsmith/SuperMarioBros_Unity) [Play Here](https://peytonbrsmith.github.io/SuperMarioBros_Unity/)

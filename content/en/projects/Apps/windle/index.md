@@ -5,12 +5,14 @@ lead: "Your favorite word game now on Windows desktop."
 date: 2022-02-15T15:21:01+02:00
 lastmod: 2022-02-15T15:21:01+02:00
 draft: false
-images: []
+images: ["promo1920.png"]
+pinned: true
 menu:
   docs:
     parent: "apps"
 weight: 140
 toc: false
+types: ["Apps"]
 ---
 
 <img src="promo1920.png">

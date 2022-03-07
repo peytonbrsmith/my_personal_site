@@ -3,7 +3,7 @@ title: "VR Escape Room Demo"
 description: "VR Escape Room Demo"
 lead: ""
 draft: false
-images: []
+images: ["../favicon-32x32.png"]
 menu:
   docs:
     parent: "XR"

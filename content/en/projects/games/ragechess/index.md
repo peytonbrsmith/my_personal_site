@@ -5,12 +5,14 @@ lead: "How you really want to play Chess."
 date: 2020-10-13T15:21:01+02:00
 lastmod: 2020-10-13T15:21:01+02:00
 draft: false
-images: []
+images: ["ragechesslogogradient.png"]
 menu:
   docs:
     parent: "games"
 weight: 130
 toc: true
+pinned: true
+types: ["games"]
 ---
 
 Project Links: [GitHub](https://github.com/aydentownsley/RageChess) [Landing Page](https://aydentownsley.github.io/RageChess)

@@ -5,7 +5,7 @@ lead: ""
 date: 2020-11-26
 lastmod: 2020-11-26
 draft: false
-images: []
+images: ["download.jpg"]
 menu:
   docs:
     parent: "XR"

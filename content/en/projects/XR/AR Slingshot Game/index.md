@@ -3,7 +3,7 @@ title: "AR Slingshot Game"
 description: "AR Slingshot Game"
 lead: ""
 draft: false
-images: []
+images: ["../favicon-32x32.png"]
 menu:
   docs:
     parent: "XR"
