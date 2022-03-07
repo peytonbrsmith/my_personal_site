@@ -13,13 +13,39 @@ weight: 140
 toc: true
 ---
 
-[Privacy Policy](privacy/)
+<div display="inline-block">
+<img src="windlelogo.png" width="10%" align="left" margin="10px">
+  Get it on the <a href="https://www.microsoft.com/en-us/p/windle/9nw9pr0lcpc9">Microsoft Store</a>! <br />
+  Review my <a href="privacy/">Privacy Policy</a>
+</div>
 
-This is a word game I created as an UWP app using Fluent Design.
 
-<img src="Screenshot 2022-02-07 193342.png">
-<img src="Screenshot 2022-02-06 234107.png">
-<img src="Screenshot 2022-02-07 193504.png">
-<img src="Screenshot 2022-02-07 193605.png">
-<img src="Screenshot 2022-02-07 193618.png">
 
+
+<img src="promo1920.png">
+
+---
+
+Features:
+* Play your favorite word game right on your windows desktop! 🪟
+* Track your game history! 📘
+* Share your results! ✉️
+* Change between a Dark or Light theme! ☀️/🌙
+
+---
+
+Screenshots:
+
+<img src="Screenshot 2022-03-04 210635.png" width="45%">
+<img src="Screenshot 2022-03-04 210254.png" width="45%">
+
+<br />
+
+<img src="Screenshot 2022-03-04 210728.png" width="45%">
+<img src="Screenshot 2022-03-04 210840.png" width="45%">
+
+<br />
+
+
+<img src="Screenshot 2022-03-04 211030.png" width="45%">
+<img src="Screenshot 2022-03-04 213547.png" width="45%">
