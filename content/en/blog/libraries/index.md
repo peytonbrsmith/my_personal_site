@@ -5,7 +5,6 @@ lead: "The Dynamics of Libraries in C"
 date: 2020-12-14
 lastmod: 2021-11-06
 draft: false
-weight: 50
 images: []
 contributors: ["Peyton Smith"]
 ---

@@ -5,7 +5,6 @@ lead: "Immersing Ourselves Into XR"
 date: 2021-06-23
 lastmod: 2021-11-06
 draft: false
-weight: 50
 images: ["ragechesslogogradient.png"]
 contributors: ["Peyton Smith"]
 ---

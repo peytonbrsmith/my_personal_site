@@ -2,10 +2,9 @@
 title: "🎆 Welcome to my new site!"
 description: ""
 lead: ""
-date: 2021-11-05T09:19:42+01:00
-lastmod: 2021-11-05T09:19:42+01:00
+date: 2021-11-05
+lastmod: 2021-11-05
 draft: false
-weight: 50
 images: ["booyah.gif"]
 contributors: ["Peyton Smith"]
 ---

@@ -5,7 +5,6 @@ lead: "My Intro to Object Oriented Programming"
 date: 2021-01-12
 lastmod: 2021-11-06
 draft: false
-weight: 50
 images: []
 contributors: ["Peyton Smith"]
 ---
