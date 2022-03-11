@@ -1,5 +1,5 @@
 ---
-title: "🌐🥽 WebXR"
+title: "🌐 Is WebXR The Future? 🥽"
 description: "A blog about WebXR."
 lead: "Is XR ready for the web? Is the web ready for XR?"
 date: 2022-03-10

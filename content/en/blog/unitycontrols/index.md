@@ -1,7 +1,7 @@
 ---
-title: "🎮 Cross-Platform with Unity"
+title: "🎮 Unity, A Cross-Platform Story"
 description: "A blog about Unity's cross platform capabilities."
-lead: "The best way to develop for VR with Unity!"
+lead: "Let's talk about the swiss army knife of Game Engines!"
 date: 2022-03-10
 lastmod: 2022-03-10
 draft: false
