@@ -1,6 +1,6 @@
 ---
 title: "Simple Unix Shell"
-description: "Simple Shell"
+description: "A linux command interpreter built entirely in C."
 lead: ""
 date: 2020-10-13T15:21:01+02:00
 lastmod: 2020-10-13T15:21:01+02:00
@@ -11,6 +11,7 @@ menu:
     parent: "linux"
 weight: 160
 toc: true
+pinned: true
 ---
 
 Project Links: [GitHub](https://github.com/peytonbrsmith/simple_shell)
