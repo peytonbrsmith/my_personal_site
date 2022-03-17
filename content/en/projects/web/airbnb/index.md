@@ -12,6 +12,7 @@ menu:
 weight: 150
 toc: true
 pinned: true
+types: ["Web"]
 ---
 
 

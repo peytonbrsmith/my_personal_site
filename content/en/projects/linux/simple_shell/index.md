@@ -11,6 +11,7 @@ menu:
     parent: "linux"
 weight: 160
 toc: true
+types: ["Linux"]
 pinned: true
 ---
 
