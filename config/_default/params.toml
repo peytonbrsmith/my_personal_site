@@ -10,7 +10,7 @@ description = "I have a passion for technology and I want to use it."
 # docsVersion = "0.3"
 
 ## Open Graph
-images = ["20201105_220240000_iOS.jpg"]
+images = ["seoimage.png"]
 ogLocale = "en_US"
 domainTLD = "peytonsmith.dev"
 titleHome = "Peyton Smith"
@@ -31,19 +31,19 @@ schemaLocale = "en-US"
 schemaLogo = "favicon.ico"
 schemaLogoWidth = 512
 schemaLogoHeight = 512
-# schemaImage = "doks.png"
-# schemaImageWidth = 1280
-# schemaImageHeight = 640
+schemaImage = "seoimage.png"
+schemaImageWidth = 1280
+schemaImageHeight = 640
 schemaTwitter = "https://twitter.com/peytons0606"
 schemaLinkedIn = "https://www.linkedin.com/in/peytonbrsmith/"
 schemaGitHub = "https://github.com/peytonbrsmith"
 schemaSection = "blog"
 
 ## Sitelinks Search Box
-siteLinksSearchBox = false
+siteLinksSearchBox = true
 
 ## Chrome Browser
-themeColor = "#fff"
+themeColor = "#212529"
 
 # Images
 quality = 85
