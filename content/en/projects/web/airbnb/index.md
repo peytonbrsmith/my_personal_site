@@ -1,7 +1,7 @@
 ---
 title: "AirBnB Clone"
 description: "An airbnb like web-service built with Python, MySQL, Flask, HTML, and Javascript."
-lead: ""
+lead: "An airbnb like web-service built with Python, MySQL, Flask, HTML, and Javascript."
 date: 2020-10-13T15:21:01+02:00
 lastmod: 2020-10-13T15:21:01+02:00
 draft: false

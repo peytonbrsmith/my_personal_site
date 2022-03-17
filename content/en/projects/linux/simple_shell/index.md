@@ -1,7 +1,7 @@
 ---
 title: "Simple Unix Shell"
 description: "A linux command interpreter built entirely in C."
-lead: ""
+lead: "A linux command interpreter built entirely in C."
 date: 2020-10-13T15:21:01+02:00
 lastmod: 2020-10-13T15:21:01+02:00
 draft: false
