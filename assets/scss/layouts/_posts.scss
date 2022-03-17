@@ -13,6 +13,10 @@
   transition: transform 0.3s;
 }
 
+.card-img-top {
+  text-align: center;
+}
+
 .home .card:hover,
 .blog .card:hover,
 .newsletter .card:hover,
@@ -28,6 +32,7 @@
 .newsletter .card-body,
 .contributors.list .card-body {
   padding: 0 2rem 1rem;
+  min-width: 350px;
 }
 
 .blog-header {

@@ -33,7 +33,7 @@
   package = "netlify-plugin-submit-sitemap"
 
 	[plugins.inputs]
-    baseUrl = "https://getdoks.org"
+    baseUrl = "https://peytonbrsmith.netlify.app"
     sitemapPath = "/sitemap.xml"
     providers = [
       "google",

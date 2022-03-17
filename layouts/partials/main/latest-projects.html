@@ -1,5 +1,5 @@
-<section class="section section-sm my-3 py-5 bg-light">
-  <div class="container">
+<section class="section section-sm my-3 py-5 px-5 bg-light">
+  <div class="showcase">
     <h2 class="h3 mt-3 text-center">Top Projects</h2>
     <div class="row justify-content-center g-4 mb-5">
       {{ range first 5 (where .Site.RegularPages.ByDate.Reverse "Params.pinned" true)  -}}
