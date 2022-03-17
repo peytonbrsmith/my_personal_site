@@ -2,7 +2,7 @@
   <div class="container">
     <h2 class="h3 mt-3 text-center">Top Projects</h2>
     <div class="row justify-content-center g-4 mb-5">
-      {{ range first 3 (where .Site.RegularPages.ByDate.Reverse "Params.pinned" true)  -}}
+      {{ range first 5 (where .Site.RegularPages.ByDate.Reverse "Params.pinned" true)  -}}
           <div class="col">
             {{ partial "main/showcase-card.html" . -}}
           </div>
