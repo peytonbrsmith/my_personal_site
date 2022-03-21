@@ -1,7 +1,7 @@
 ---
 title: "Windle"
-description: "Your favorite word game now on Windows desktop."
-lead: "Your favorite word game now on Windows desktop."
+description: "Your favorite word game now on the Microsoft Store! Built with .NET/C# on the Universal Windows Platform."
+lead: "Your favorite word game now on the Microsoft Store! Built with .NET/C# on the Universal Windows Platform."
 date: 2022-02-15T15:21:01+02:00
 lastmod: 2022-02-15T15:21:01+02:00
 draft: false

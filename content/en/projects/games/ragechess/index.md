@@ -1,7 +1,7 @@
 ---
 title: "Rage Chess"
-description: "Rage Chess"
-lead: "How you really want to play Chess."
+description: "How you really want to play Chess. A multiplayer VR chess game built in Unity."
+lead: "How you really want to play Chess. A multiplayer VR chess game built in Unity."
 date: 2020-10-13T15:21:01+02:00
 lastmod: 2020-10-13T15:21:01+02:00
 draft: false
