@@ -38,6 +38,7 @@ Pffft, I don't watch or quote too many sitcoms...
 ### 🕹️ Favorite Games
 What can I say? I was and always will be a minecraft kid...
 
+ - Beat Saber 🎵
  - Half Life Alyx 🤖
  - The Resident Evil Series 😨
  - Minecraft ⛏️
