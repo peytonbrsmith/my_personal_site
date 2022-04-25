@@ -29,27 +29,27 @@ I am a HUGE nerd. I love all things tech, science, sci-fi, gaming, fantasy, come
 ### 🍿 Favorite Shows
 Pffft, I don't watch or quote too many sitcoms...
 
-- Parks and Recreations 🌳
-- King of the Hill 👑
-- Frasier 📻
-- Seinfeld 🎤
-- How I Met Your Mother 🍍
+Parks and Recreations 🌳
+King of the Hill 👑
+Frasier 📻
+Seinfeld 🎤
+How I Met Your Mother 🍍
 
 ### 🕹️ Favorite Games
 What can I say? I was and always will be a minecraft kid...
 
- - Beat Saber 🎵
- - Half Life Alyx 🤖
- - The Resident Evil Series 😨
- - Minecraft ⛏️
- - Echo Arena 🥏
- - Elite Dangerous 🛸
+Beat Saber 🎵
+Half Life Alyx 🤖
+The Resident Evil Series 😨
+Minecraft ⛏️
+Echo Arena 🥏
+Elite Dangerous 🛸
 
 ### 📅 What I like to do
 A few of these may come as a surprise, but I like to...
 
- - Watch sitcoms 🤣
- - Play games 🎮🎲
- - Code 🧑‍💻
- - Run around in the rain ⛈️
- - Eat 🍕
+Watch sitcoms 🤣
+Play games 🎮🎲
+Code 🧑‍💻
+Run around in the rain ⛈️
+Eat 🍕
