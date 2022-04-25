@@ -19,6 +19,8 @@ types: ["Apps"]
 
 ---
 
+<meta http-equiv="refresh" content="0; url='https://windle.peytonsmith.dev'" />
+
 <div align="center">
   <img src="windlelogo.png" width="10%" align="center">
   <b> Get it on the <a href="https://www.microsoft.com/en-us/p/windle/9nw9pr0lcpc9">Microsoft Store</a>! </b>
